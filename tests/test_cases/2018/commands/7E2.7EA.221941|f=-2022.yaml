@@ -1,0 +1,14 @@
+command_id: 7E2.7EA.221941|f=-2022
+test_cases:
+- expected_values:
+    S10_TRANS_ISS: 430.5
+  response: 7EA0562194106BA
+- expected_values:
+    S10_TRANS_ISS: 2329.25
+  response: 7EA056219412465
+- expected_values:
+    S10_TRANS_ISS: 2532
+  response: 7EA056219412790
+- expected_values:
+    S10_TRANS_ISS: 2625.75
+  response: 7EA056219412907

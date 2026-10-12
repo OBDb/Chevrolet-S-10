@@ -1,0 +1,14 @@
+command_id: 241.641.225008|f=-2022
+test_cases:
+- expected_values:
+    S10_TP_RL_241: 225.5
+  response: '641056250080E18'
+- expected_values:
+    S10_TP_RL_241: 231
+  response: '641056250080E70'
+- expected_values:
+    S10_TP_RL_241: 233.75
+  response: 641056250080E9C
+- expected_values:
+    S10_TP_RL_241: 239.25
+  response: 641056250080EF4

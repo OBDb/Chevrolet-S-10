@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220010|fc=1,f=-2022
+test_cases:
+- expected_values:
+    S10_MAF: 0
+  response: '7E8056200100000'
+- expected_values:
+    S10_MAF: 12.79
+  response: 7E80562001004FF
+- expected_values:
+    S10_MAF: 34.78
+  response: 7E8056200100D96

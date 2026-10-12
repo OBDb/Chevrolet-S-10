@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22905C
+test_cases:
+- expected_values:
+    S10_HOOD_POS_V2: 2
+  response: 7E80462905C02
+- expected_values:
+    S10_HOOD_POS_V2: 3
+  response: 7E80462905C03

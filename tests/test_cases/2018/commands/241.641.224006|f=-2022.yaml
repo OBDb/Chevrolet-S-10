@@ -1,0 +1,5 @@
+command_id: 241.641.224006|f=-2022
+test_cases:
+- expected_values:
+    S10_TID_FR: 1450485061
+  response: 641076240065674A545

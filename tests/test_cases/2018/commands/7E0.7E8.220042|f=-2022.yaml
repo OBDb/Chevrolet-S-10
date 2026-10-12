@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220042|f=-2022
+test_cases:
+- expected_values:
+    S10_M_CTRL_MODULE_V: 0.005
+  response: '7E8056200420005'
+- expected_values:
+    S10_M_CTRL_MODULE_V: 14.59
+  response: 7E80562004238FE
+- expected_values:
+    S10_M_CTRL_MODULE_V: 14.96
+  response: 7E8056200423A70

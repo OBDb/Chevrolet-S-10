@@ -1,0 +1,14 @@
+command_id: 7E2.7EA.222862
+test_cases:
+- expected_values:
+    S10_TRANS_P: 4558
+  response: 7EA0562286211CE
+- expected_values:
+    S10_TRANS_P: 6461
+  response: 7EA05622862193D
+- expected_values:
+    S10_TRANS_P: 6994
+  response: 7EA056228621B52
+- expected_values:
+    S10_TRANS_P: 10253
+  response: 7EA05622862280D

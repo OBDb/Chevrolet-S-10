@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221C47|f=-2022
+test_cases:
+- expected_values:
+    S10_14V_POWER_MODULE_V: 0
+  response: 7E804621C4700
+- expected_values:
+    S10_14V_POWER_MODULE_V: 13.9
+  response: 7E804621C478B
+- expected_values:
+    S10_14V_POWER_MODULE_V: 14
+  response: 7E804621C478C
+- expected_values:
+    S10_14V_POWER_MODULE_V: 14.6
+  response: 7E804621C4792
+- expected_values:
+    S10_14V_POWER_MODULE_V: 14.7
+  response: 7E804621C4793
+- expected_values:
+    S10_14V_POWER_MODULE_V: 15
+  response: 7E804621C4796

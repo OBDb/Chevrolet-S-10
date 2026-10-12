@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22002F|fc=1,f=-2022
+test_cases:
+- expected_values:
+    S10_FLI: 42.7451
+  response: 7E80462002F6D
+- expected_values:
+    S10_FLI: 43.52941
+  response: 7E80462002F6F
+- expected_values:
+    S10_FLI: 44.70588
+  response: 7E80462002F72
+- expected_values:
+    S10_FLI: 45.88235
+  response: 7E80462002F75
+- expected_values:
+    S10_FLI: 46.27451
+  response: 7E80462002F76

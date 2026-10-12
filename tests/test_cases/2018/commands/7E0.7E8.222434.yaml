@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222434
+test_cases:
+- expected_values:
+    S10_ECM_AXLE_TQ_DRIVER_REQ: -527
+  response: 7E80562243455F7
+- expected_values:
+    S10_ECM_AXLE_TQ_DRIVER_REQ: 1793
+  response: 7E8056224345F07

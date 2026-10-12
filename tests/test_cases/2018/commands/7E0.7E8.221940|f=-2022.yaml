@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221940|f=-2022
+test_cases:
+- expected_values:
+    S10_ATF_T_VAR_1: 31
+  response: '7E80462194047'
+- expected_values:
+    S10_ATF_T_VAR_1: 60
+  response: '7E80462194064'

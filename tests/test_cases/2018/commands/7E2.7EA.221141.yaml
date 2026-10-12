@@ -1,0 +1,14 @@
+command_id: 7E2.7EA.221141
+test_cases:
+- expected_values:
+    S10_IGN_V_V2: 13.7
+  response: 7EA0462114189
+- expected_values:
+    S10_IGN_V_V2: 13.8
+  response: 7EA046211418A
+- expected_values:
+    S10_IGN_V_V2: 14.1
+  response: 7EA046211418D
+- expected_values:
+    S10_IGN_V_V2: 14.6
+  response: 7EA0462114192
