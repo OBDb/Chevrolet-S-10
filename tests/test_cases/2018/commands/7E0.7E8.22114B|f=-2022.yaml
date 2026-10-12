@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22114B|f=-2022
+test_cases:
+- expected_values:
+    S10_EGR_V: 1.11765
+  response: 7E80462114B39
+- expected_values:
+    S10_EGR_V: 2.47059
+  response: 7E80462114B7E

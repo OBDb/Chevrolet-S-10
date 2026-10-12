@@ -1,0 +1,14 @@
+command_id: 7E2.7EA.221991|fc=1,f=-2022
+test_cases:
+- expected_values:
+    S10_TC_SLIP_VSS: 12.375
+  response: 7EA056219910063
+- expected_values:
+    S10_TC_SLIP_VSS: 66
+  response: 7EA056219910210
+- expected_values:
+    S10_TC_SLIP_VSS: 95.875
+  response: 7EA0562199102FF
+- expected_values:
+    S10_TC_SLIP_VSS: -183.75
+  response: 7EA05621991FA42

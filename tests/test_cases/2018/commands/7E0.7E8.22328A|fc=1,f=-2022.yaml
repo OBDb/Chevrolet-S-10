@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22328A|fc=1,f=-2022
+test_cases:
+- expected_values:
+    S10_BP_DES: 105
+  response: 7E80562328A2904
+- expected_values:
+    S10_BP_DES: 122.81
+  response: 7E80562328A2FF9
+- expected_values:
+    S10_BP_DES: 133.97
+  response: 7E80562328A3455

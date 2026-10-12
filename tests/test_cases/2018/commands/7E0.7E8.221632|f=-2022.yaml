@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221632|f=-2022
+test_cases:
+- expected_values:
+    S10_BALANCE_RATE_CYL_4: -0.35938
+  response: 7E8056216327FE9
+- expected_values:
+    S10_BALANCE_RATE_CYL_4: -0.03125
+  response: 7E8056216327FFE
+- expected_values:
+    S10_BALANCE_RATE_CYL_4: 0
+  response: '7E8056216328000'

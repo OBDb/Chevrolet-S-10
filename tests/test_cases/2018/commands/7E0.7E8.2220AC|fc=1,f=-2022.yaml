@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2220AC|fc=1,f=-2022
+test_cases:
+- expected_values:
+    S10_FUEL_INJECTION_C1: 0
+  response: 7E8056220AC0000
+- expected_values:
+    S10_FUEL_INJECTION_C1: 1.503
+  response: 7E8056220AC05DF
+- expected_values:
+    S10_FUEL_INJECTION_C1: 2.052
+  response: 7E8056220AC0804

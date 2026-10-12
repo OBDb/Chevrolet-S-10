@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2220E3|fc=1,f=-2022
+test_cases:
+- expected_values:
+    S10_BP_ACT: 0
+  response: 7E8056220E30000
+- expected_values:
+    S10_BP_ACT: 2.54
+  response: 7E8056220E300FE
+- expected_values:
+    S10_BP_ACT: 33.58
+  response: 7E8056220E30D1E

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.222810
+test_cases:
+- expected_values:
+    S10_THROTTLE_POS_CALC_V2: 0
+  response: '7E80462281000'
+- expected_values:
+    S10_THROTTLE_POS_CALC_V2: 5.09804
+  response: 7E8046228100D
+- expected_values:
+    S10_THROTTLE_POS_CALC_V2: 11.37255
+  response: 7E8046228101D
+- expected_values:
+    S10_THROTTLE_POS_CALC_V2: 11.76471
+  response: 7E8046228101E
+- expected_values:
+    S10_THROTTLE_POS_CALC_V2: 12.94118
+  response: '7E80462281021'

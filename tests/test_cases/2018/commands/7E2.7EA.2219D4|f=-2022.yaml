@@ -1,0 +1,14 @@
+command_id: 7E2.7EA.2219D4|f=-2022
+test_cases:
+- expected_values:
+    S10_CLU_SLIP_C3_RING: 496.5
+  response: 7EA056219D407C2
+- expected_values:
+    S10_CLU_SLIP_C3_RING: 2346.25
+  response: 7EA056219D424A9
+- expected_values:
+    S10_CLU_SLIP_C3_RING: 2538
+  response: 7EA056219D427A8
+- expected_values:
+    S10_CLU_SLIP_C3_RING: 2622.5
+  response: 7EA056219D428FA

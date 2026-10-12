@@ -1,0 +1,14 @@
+command_id: 7E2.7EA.2219A1
+test_cases:
+- expected_values:
+    S10_GEAR_RAT_V2: 99
+  response: 7EA046219A163
+- expected_values:
+    S10_GEAR_RAT_V2: 152
+  response: 7EA046219A198
+- expected_values:
+    S10_GEAR_RAT_V2: 254
+  response: 7EA046219A1FE
+- expected_values:
+    S10_GEAR_RAT_V2: 255
+  response: 7EA046219A1FF
